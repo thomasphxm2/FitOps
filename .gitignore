@@ -1,0 +1,5 @@
+.fitos/
+data/raw/
+*.zip
+.env
+__pycache__/
